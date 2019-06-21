@@ -2,9 +2,9 @@
   "title": "html2canvas",
   "name": "html2canvas",
   "description": "Screenshots with JavaScript",
-  "main": "dist/npm/index.js",
-  "module": "dist/html2canvas.js",
-  "browser": "dist/html2canvas.js",
+  "main": "dist/html2canvas.min.js",
+  "module": "dist/html2canvas.min.js",
+  "browser": "dist/html2canvas.min.js",
   "version": "1.0.0-rc.1",
   "author": {
     "name": "Niklas von Hertzen",
